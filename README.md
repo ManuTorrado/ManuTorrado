@@ -4,18 +4,10 @@
 
 
 
+https://manu-torrado-xv7j-ajqe2jrwl-manutorrado.vercel.app
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=ManuTorrado&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=ManuTorrado&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=ManuTorrado&show_icons=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manutorrado&show_icons=true&theme=transparent)
+
 
 [Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)
 
