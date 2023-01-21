@@ -2,15 +2,24 @@
 
 ⚛ FullStack React Developer
 
+<div style="display: inline;">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manutorrado&show_icons=true&bg_color=00000000)
+ 
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manutorrado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
+
+  
+</div> 
+
+  
 
 
 
-[Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)
 
-<div style="display: block">
+<div  align="center" style="display: block;">
 
 <img src="https://user-images.githubusercontent.com/34150608/213845069-927503d9-3b97-40eb-bd6f-c25da054a9fe.png"  width="32"/>
   
@@ -24,9 +33,11 @@
 
 <img src="https://user-images.githubusercontent.com/34150608/213877689-1f97f569-923c-4749-bbd4-5eab3ecc0a15.png"  width="32"/>
 <img src="https://user-images.githubusercontent.com/34150608/213879021-1cd02456-dca0-4c02-a5d9-656ddb4be4c9.png"  width="32"/>
-
-
-  <div>
+  
+</div>
+  
+[Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)  
+  
 <!--
 **ManuTorrado/ManuTorrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
