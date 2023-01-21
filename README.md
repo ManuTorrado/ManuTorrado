@@ -1,4 +1,4 @@
-### Hi, Im Manuel 👋
+### Hi, I'm Manuel 👋
 
 ⚛ FullStack React Developer
 
