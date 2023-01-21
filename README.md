@@ -11,10 +11,10 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=manutorrado&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=ManuTorrado&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=manutorrado&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ManuTorrado&show_icons=true" />
 </picture>
 
 [Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)
