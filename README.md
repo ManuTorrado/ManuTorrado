@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+⚛ FullStack React Developer
+
+[Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)
+
 <!--
 **ManuTorrado/ManuTorrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
