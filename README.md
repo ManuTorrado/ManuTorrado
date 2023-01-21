@@ -2,10 +2,10 @@
 
 ⚛ FullStack React Developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuTorrado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manutorrado)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuTorrado)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <picture>
