@@ -2,6 +2,9 @@
 
 ⚛ FullStack React Developer
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manutorrado&show_icons=true&theme=radical)
+
+
 [Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)
 
 <div style="display: block">
