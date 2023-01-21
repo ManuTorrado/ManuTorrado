@@ -5,7 +5,6 @@
 [Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)
 
 <div style="display: block">
-  ![1532556](https://user-images.githubusercontent.com/34150608/213845069-927503d9-3b97-40eb-bd6f-c25da054a9fe.png)
 
 <img src="https://user-images.githubusercontent.com/34150608/213845069-927503d9-3b97-40eb-bd6f-c25da054a9fe.png"  width="64"/>
   
