@@ -2,15 +2,12 @@
 
 ⚛ FullStack React Developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuTorrado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuTorrado)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=manutorrado&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=ManuTorrado&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
