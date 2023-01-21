@@ -3,7 +3,7 @@
 ⚛ FullStack React Developer
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=manutorrado&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=manutorrado&show_icons=true&theme=transparent" />
 
 
 
