@@ -3,10 +3,12 @@
 ⚛ FullStack React Developer
 
 
+<details>
+  <img src=" https://manu-torrado-xv7j-ajqe2jrwl-manutorrado.vercel.app/api?username=manutorrado&show_icons=true&theme=transparent" />
+  </details>
 
 
 
-![Anurag's GitHub stats](https://manu-torrado-xv7j-ajqe2jrwl-manutorrado.vercel.app/api?username=manutorrado&show_icons=true&theme=transparent)
 
 
 [Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)
