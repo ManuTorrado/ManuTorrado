@@ -4,9 +4,9 @@
 
 
 
-https://manu-torrado-xv7j-ajqe2jrwl-manutorrado.vercel.app
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manutorrado&show_icons=true&theme=transparent)
+
+![Anurag's GitHub stats](https://manu-torrado-xv7j-ajqe2jrwl-manutorrado.vercel.app/api?username=manutorrado&show_icons=true&theme=transparent)
 
 
 [Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)
