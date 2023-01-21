@@ -4,11 +4,7 @@
 
 [Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)
 
-
-
-
-
-<img src="https://user-images.githubusercontent.com/34150608/213844921-05968cf7-4b37-4395-a949-1378dc67dbac.png" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/34150608/213844921-05968cf7-4b37-4395-a949-1378dc67dbac.png" alt="drawing" width="64"/>
 <!--
 **ManuTorrado/ManuTorrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
