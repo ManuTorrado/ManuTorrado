@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manutorrado&layout=compact)](https://github.com/manutorrado/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manutorrado&show_icons=true&theme=radical)
 
 [Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)
 
