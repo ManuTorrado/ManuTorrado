@@ -4,7 +4,7 @@
 
 
 
-  <img src=" https://manu-torrado-xv7j-ajqe2jrwl-manutorrado.vercel.app/api?username=manutorrado&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manutorrado&show_icons=true&theme=dark" />
 
 
 
