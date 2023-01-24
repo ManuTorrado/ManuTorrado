@@ -31,6 +31,9 @@
 
 
 <img src="https://user-images.githubusercontent.com/34150608/214374727-6a38265d-d7db-4c79-8733-a771471603c9.svg"  width="32"/>
+
+
+  <img src="https://user-images.githubusercontent.com/34150608/214375022-f2a55959-2684-4406-9ead-a85b6a88173e.png" alt="Java"  width="32"/>
 </div>
   
 [Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)  
