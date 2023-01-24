@@ -5,13 +5,6 @@
 <div style="display: inline;">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manutorrado&show_icons=true&bg_color=00000000)
- 
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manutorrado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-
-
-  
 </div> 
 
   
@@ -37,7 +30,7 @@
 <img src="https://user-images.githubusercontent.com/34150608/213894326-5c84377c-264f-4dda-b980-7774e6926ea3.png"  width="32"/>
 
 
- 
+<img src="https://user-images.githubusercontent.com/34150608/214374727-6a38265d-d7db-4c79-8733-a771471603c9.svg"  width="32"/>
 </div>
   
 [Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)  
