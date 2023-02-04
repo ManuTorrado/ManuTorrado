@@ -1,8 +1,7 @@
 ### Hi, I'm Manuel 👋
 
-⚛ FullStack (MERN) Developer
-📚 Currently learning Java Sprting Boot and Vue js 
-
+- ⚛ FullStack (MERN) Developer
+- 📚 Currently learning Java Sprting Boot and Vue js 
 
 <div style="display: inline;">
 
