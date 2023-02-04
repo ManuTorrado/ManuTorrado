@@ -1,6 +1,8 @@
 ### Hi, I'm Manuel 👋
 
-⚛ FullStack React Developer
+⚛ FullStack (MERN) Developer
+
+
 
 <div style="display: inline;">
 
