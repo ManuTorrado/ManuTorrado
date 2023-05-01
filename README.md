@@ -38,7 +38,7 @@
   <img src="https://user-images.githubusercontent.com/34150608/214375022-f2a55959-2684-4406-9ead-a85b6a88173e.png" title="Java"  width="32"/>
 </div>
   
-[Linkedin](https://www.linkedin.com/in/manuel-torrado-ab7774162/)  
+
   
 <!--
 **ManuTorrado/ManuTorrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
