@@ -2,7 +2,6 @@
 
 - ⚛  FullStack (MERN) Developer
 - 📚 Currently learning Spring Boot and Python 
-- 🤖 Data Science enthusiast
 
 <div style="display: inline;">
 
