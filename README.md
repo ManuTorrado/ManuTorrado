@@ -1,7 +1,7 @@
 ### Hi, I'm Manuel 👋
 
 - ⚛  FullStack (MERN) Developer
-- 📚 Currently learning Spring Boot and Python
+- 📚 Currently learning Spring Boot
 - 🌐 Cybersecurity Enthusiast 
 
 <div style="display: inline;">
