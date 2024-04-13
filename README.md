@@ -2,6 +2,7 @@
 
 - ⚛  FullStack (MERN) Developer
 - 📚 Currently learning Spring Boot
+- 🐍 Python
 - 🌐 Cybersecurity Enthusiast 
 
 <div style="display: inline;">
